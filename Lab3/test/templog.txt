@@ -1,0 +1,5 @@
+D:\\UL\\C#V3\\Detroit2 coolD:\\UL\\C#V3\\Human2
+30.11.2020 03:26:59 файл D:\\UL\\C#V3\\Detroit2\ttt.txt был удален
+30.11.2020 03:27:10 файл D:\\UL\\C#V3\\Detroit2\ttt.txt был создан
+30.11.2020 03:27:10 файл D:\\UL\\C#V3\\Detroit2\ttt.txt был изменен
+30.11.2020 03:27:10 файл D:\\UL\\C#V3\\Detroit2\ttt.txt был изменен
